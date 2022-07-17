@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssw-mall-common-util" />
+        <module name="ssw-mall-pay" />
+        <module name="ssw-mall-cms" />
+        <module name="ssw-mall-pay-api" />
+        <module name="ssw-mall-dictionary-api" />
+        <module name="ssw-mall-common-base" />
+        <module name="ssw-mall-cart" />
+        <module name="ssw-mall-sms-api" />
+        <module name="ssw-mall-cart-api" />
+        <module name="ssw-mall-dictionary" />
+        <module name="ssw-mall-generator" />
+        <module name="ssw-mall-oms-api" />
+        <module name="ssw-mall-manager-web" />
+        <module name="ssw-mall-sms" />
+        <module name="ssw-mall-ums-api" />
+        <module name="ssw-mall-portal-web" />
+        <module name="ssw-mall-cms-api" />
+        <module name="ssw-mall-oms" />
+        <module name="ssw-mall-pms-api" />
+        <module name="ssw-mall-pms" />
+        <module name="ssw-mall-ums" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
